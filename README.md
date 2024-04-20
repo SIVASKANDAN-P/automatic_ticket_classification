@@ -35,6 +35,6 @@
 
 ## Author
 - [@bharathsanjai](https://github.com/bharathsanjai)
-- [@SIVASKANDAN-P)(https://github.com/SIVASKANDAN-P)
+- [@SIVASKANDAN-P](https://github.com/SIVASKANDAN-P)
   
 
